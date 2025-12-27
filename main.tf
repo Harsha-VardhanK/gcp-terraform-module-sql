@@ -32,3 +32,5 @@ resource "google_sql_user" "user" {
   project  = var.project_id
   password = var.db_password
 }
+
+#updated git hub module
